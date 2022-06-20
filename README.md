@@ -13,7 +13,7 @@ Analise criticamente o problema e descubra:
 
 4. Qual é o resultado esperado?
 
-5. Qual é a sequência de passos a ser feita para chegar ao resultado esperado?
+5. Qual é a sequência de passos a ser feita para chegar ao resultado esperado? <br>
 Escrever assim: <br>
 
 input xxxxxx <br>
