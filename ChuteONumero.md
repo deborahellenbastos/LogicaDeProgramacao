@@ -10,7 +10,7 @@ Analise criticamente o problema e descubra:
 gerar um valor aleatorio de 1 a 10
 chute do usuario
 
-2. O que devo fazer com 
+2. O que devo fazer com ? <br>
 comparar os numeros e mostrar na tela informando se foi maior, menor ou igual.
 
 3. Quais são as restrições deste problema?
