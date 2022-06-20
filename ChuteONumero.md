@@ -2,7 +2,6 @@
 Escreva um programa que, ao iniciar gera um valor aleatório de 1 a 10 e permite que o usuário chute um número até acertar o valor gerado.
 O programa deve informar se o chute foi acima, abaixo ou igual ao valor aleatório gerado no programa.
 
-
 # Método 5Q's para montar o algorítimo:
 Analise criticamente o problema e descubra:
 (Tente explicar este problema para você mesmo em voz alta e peça mais informações/investigue mais até você compreeender completamente o problema)
