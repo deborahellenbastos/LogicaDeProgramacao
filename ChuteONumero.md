@@ -6,26 +6,26 @@ O programa deve informar se o chute foi acima, abaixo ou igual ao valor aleatór
 Analise criticamente o problema e descubra:
 (Tente explicar este problema para você mesmo em voz alta e peça mais informações/investigue mais até você compreeender completamente o problema)
 
-1. Quais são os dados de entrada necessários?
+1. Quais são os dados de entrada necessários? <br>
 gerar um valor aleatorio de 1 a 10
 chute do usuario
 
 2. O que devo fazer com ? <br>
 comparar os numeros e mostrar na tela informando se foi maior, menor ou igual.
 
-3. Quais são as restrições deste problema?
+3. Quais são as restrições deste problema? <br>
 um valor de 1 a 10
 
-4. Qual é o resultado esperado?
+4. Qual é o resultado esperado? <br>
 o resultado esperado é o programa comparar os numeros e mostrar na tela informando se foi maior, menor ou igual.
 
-5. Qual é a sequência de passos a ser feita para chegar ao resultado esperado?
+5. Qual é a sequência de passos a ser feita para chegar ao resultado esperado? <br>
 
-input valor_aleatorio de 1 a 10
-chute
-if chute > valor_aleatorio
-  print "Chute maior que o número gerado"
-if chute < valor_aleatorio
-  print "Chute menor que o número gerado"
-if chute = valor_aleatorio
-  print "Você acertou"
+input valor_aleatorio de 1 a 10 <br>
+chute <br>
+if chute > valor_aleatorio <br>
+  print "Chute maior que o número gerado" <br>
+if chute < valor_aleatorio <br>
+  print "Chute menor que o número gerado" <br>
+if chute = valor_aleatorio <br>
+  print "Você acertou" 
