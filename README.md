@@ -18,4 +18,4 @@ Escrever assim:
 
 input xxxxxx
 if xxxxx
-  print "xxxxxx"
+print "xxxxxx"
